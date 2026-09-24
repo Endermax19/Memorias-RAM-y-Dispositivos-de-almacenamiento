@@ -1,0 +1,654 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 31947,
+      "max": [
+        4.365324020385742,
+        0.9358447194099426,
+        0.032519709318876266
+      ],
+      "min": [
+        -2.2822976112365723,
+        -1.1180243492126465,
+        -0.21670973300933838
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 383364,
+      "componentType": 5126,
+      "count": 31947,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 31947,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 56484,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 766728,
+      "componentType": 5126,
+      "count": 768,
+      "max": [
+        4.3402934074401855,
+        0.9357884526252747,
+        0.03063364326953888
+      ],
+      "min": [
+        -2.2823009490966797,
+        -1.1179711818695068,
+        -0.21948885917663574
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 775944,
+      "componentType": 5126,
+      "count": 768,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 255576,
+      "componentType": 5126,
+      "count": 768,
+      "max": [
+        0.875,
+        1.0
+      ],
+      "min": [
+        0.125,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 225936,
+      "componentType": 5125,
+      "count": 1152,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 785160,
+      "componentType": 5126,
+      "count": 447,
+      "max": [
+        5.139307975769043,
+        0.9991303086280823,
+        -0.0015154365682974458
+      ],
+      "min": [
+        -2.6425836086273193,
+        -1.174511194229126,
+        -0.14763498306274414
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 790524,
+      "componentType": 5126,
+      "count": 447,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 261720,
+      "componentType": 5126,
+      "count": 447,
+      "max": [
+        0.875,
+        0.7500001192092896
+      ],
+      "min": [
+        0.125,
+        -1.109561401091419e-11
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 230544,
+      "componentType": 5125,
+      "count": 792,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 795888,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        -2.6425836086273193,
+        0.9122105240821838,
+        -0.007358475588262081
+      ],
+      "min": [
+        -2.8616037368774414,
+        -1.087591528892517,
+        -0.14179185032844543
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 796368,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        3.088938171913469e-07,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 265296,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        0.875,
+        1.0
+      ],
+      "min": [
+        0.125,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 233712,
+      "componentType": 5125,
+      "count": 60,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 796848,
+      "componentType": 5126,
+      "count": 816,
+      "max": [
+        -2.6560590267181396,
+        0.8628782033920288,
+        -0.005435849539935589
+      ],
+      "min": [
+        -2.845027208328247,
+        -1.0257693529129028,
+        -0.14371448755264282
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 806640,
+      "componentType": 5126,
+      "count": 816,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 265616,
+      "componentType": 5126,
+      "count": 816,
+      "max": [
+        0.875,
+        1.0
+      ],
+      "min": [
+        0.125,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 233952,
+      "componentType": 5125,
+      "count": 1224,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 816432,
+      "componentType": 5126,
+      "count": 96,
+      "max": [
+        4.813989639282227,
+        0.8075352907180786,
+        0.016749612987041473
+      ],
+      "min": [
+        -0.09244454652070999,
+        -0.9977519512176514,
+        -0.056310176849365234
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 817584,
+      "componentType": 5126,
+      "count": 96,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 272144,
+      "componentType": 5126,
+      "count": 96,
+      "max": [
+        0.875,
+        1.0
+      ],
+      "min": [
+        0.125,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 238848,
+      "componentType": 5125,
+      "count": 144,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "TDD (https://sketchfab.com/tristandavind)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/nvme-ssd-2280-3d478ac74728408890c2a03363138375",
+      "title": "NVME SSD 2280"
+    },
+    "generator": "Sketchfab-17.15.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 239424,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 272912,
+      "byteOffset": 239424,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 818736,
+      "byteOffset": 512336,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1331072,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Soldered",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.374343,
+          0.374343,
+          0.374343,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9162943605098797
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Resistor",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.168268,
+          0.171441,
+          0.119539,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9626533948250651
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0145933,
+          0.0159088,
+          0.0145934,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Sub-Pin",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.298252,
+          0.192862,
+          0.0750519,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9537666057426424
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.567981,
+          0.36371,
+          0.137027,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9126208357858305
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material.001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0319312,
+          0.0319312,
+          0.0319312,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.99680688
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "SoC_Soldered_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "SoC_Resistor_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "SoC_Material_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "SoC_Sub-Pin_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "SoC_Pin_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "SoC_Material.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 22
+          },
+          "indices": 23,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "ebad42e061564a03a81e482c59a557ab.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "name": "SoC"
+    },
+    {
+      "mesh": 0,
+      "name": "SoC_Soldered_0"
+    },
+    {
+      "mesh": 1,
+      "name": "SoC_Resistor_0"
+    },
+    {
+      "mesh": 2,
+      "name": "SoC_Material_0"
+    },
+    {
+      "mesh": 3,
+      "name": "SoC_Sub-Pin_0"
+    },
+    {
+      "mesh": 4,
+      "name": "SoC_Pin_0"
+    },
+    {
+      "mesh": 5,
+      "name": "SoC_Material.001_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

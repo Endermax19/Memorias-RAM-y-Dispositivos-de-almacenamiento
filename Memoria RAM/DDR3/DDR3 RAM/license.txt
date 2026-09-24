@@ -1,0 +1,11 @@
+Model Information:
+* title:	4GB DDR3 1600MHz RAM Stick
+* source:	https://sketchfab.com/3d-models/4gb-ddr3-1600mhz-ram-stick-e69232cfd73c4425a9b932f241a6087d
+* author:	TymonG (https://sketchfab.com/TymonG)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "4GB DDR3 1600MHz RAM Stick" (https://sketchfab.com/3d-models/4gb-ddr3-1600mhz-ram-stick-e69232cfd73c4425a9b932f241a6087d) by TymonG (https://sketchfab.com/TymonG) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

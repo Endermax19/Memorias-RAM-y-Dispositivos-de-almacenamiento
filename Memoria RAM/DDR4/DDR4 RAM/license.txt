@@ -1,0 +1,11 @@
+Model Information:
+* title:	Crucial 8 GB DDR4 2133 RAM
+* source:	https://sketchfab.com/3d-models/crucial-8-gb-ddr4-2133-ram-6fa0d3b8c5684741be7d7e396e01bc9f
+* author:	BlackCube (https://sketchfab.com/blackcube4)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Crucial 8 GB DDR4 2133 RAM" (https://sketchfab.com/3d-models/crucial-8-gb-ddr4-2133-ram-6fa0d3b8c5684741be7d7e396e01bc9f) by BlackCube (https://sketchfab.com/blackcube4) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
